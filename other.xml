@@ -1,0 +1,215 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="jdk.internal.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javassist.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.apache.webbeans.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.ibm.ws.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/Workspace/work/blipic/Server-Code/node_modules/.bin/babel-node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.14.1" last-modified="1544181118000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/10.10.0/bin/node">
+      <version-cache version="10.10.0" last-modified="1536643816000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.6.0/bin/node">
+      <version-cache version="8.6.0" last-modified="1507624464000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/babel-node">
+      <version-cache version="6.23.0" last-modified="1480307887000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/Workspace/tmp/typescript/express-ts/node_modules/.bin/ts-node">
+      <version-cache last-modified="499162500000" />
+    </local-interpreter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="6.9.1" last-modified="1478183030000" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="#xdebugger.evaluate.splitter" value="0.2" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="ColorChooser.RecentColors" value="49-68-73-255,,,60-83-87-255,,,72-97-101-255,,,112-136-113-255,,,90-110-91-255,,,48-56-74-255,,,109-127-168-255,,,77-89-118-255,,,144-144-144-255,,,207-207-207-255,,,204-204-204-255,,,214-214-214-255,,,90-131-137-255,,,57-74-83-255,,,155-155-155-255,,,216-216-216-255,,,233-87-121-255,,,233-79-98-255,,,37-43-45-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6107595" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Material Theme - Default" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="HbAutocompleteMustaches" value="enabled" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="HbDisableAutoGenerateCloseTag" value="enabled" />
+    <property name="HbFormatter" value="enabled" />
+    <property name="INSPECTION_FILTER_HISTORY" value="async" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="JestJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="JestJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="KEYMAP" value="previous tab&#10;next tab" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesECMAScript 6" value="false" />
+    <property name="MTBoldTabs" value="false" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="MochaJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="PLUGIN_FILTER" value="rust&#10;styled&#10;mate&#10;jest&#10;java" />
+    <property name="SearchEveryWhereHistory" value="index&#10;chatUser/cre&#10;Jira&#10;model/use&#10;hooks/hoo" />
+    <property name="SettingsSearchHistory" value="plugins&#10;tslint&#10;code style&#10;menu&#10;mater" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.684492" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="" />
+    <property name="TrendingPluginsSearchHistory" value="rust" />
+    <property name="WebStorm.dumbRunEnabled" value="true" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="WebStorm.lineNumbersEnabled" value="true" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="OCEANIC" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.12" value="14" />
+    <property name="evlsprt3.162" value="16" />
+    <property name="evlsprt3.163" value="12" />
+    <property name="evlsprt3.171" value="10" />
+    <property name="evlsprt3.172" value="18" />
+    <property name="evlsprt3.173" value="16" />
+    <property name="evlsprt3.181" value="10" />
+    <property name="evlsprt3.182" value="13" />
+    <property name="evlsprt3.183" value="15" />
+    <property name="export.settings.path" value="$APPLICATION_CONFIG_DIR$/ui-settings.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Workspace/tmp/typescript/express-ts/node_modules/.bin/ts-node&#10;/Users/jsarafajr/Workspace/work/crm-bot-project/amoCRM-telegram-client&#10;/Users/jsarafajr/Workspace/work/crm-bot-project/amoCRM-connector&#10;/Users/jsarafajr/Workspace/lab/5-course/pzks/lab2&#10;/Users/jsarafajr/Workspace/tmp/babel-node-debug&#10;/Users/jsarafajr/Workspace/work/amoCRM_bot/node_modules/.bin/babel-node&#10;/Users/jsarafajr/Workspace/lab/pzks&#10;/usr/local/lib/node_modules/typescript/bin&#10;/usr/local/lib/node_modules/typescript&#10;/Users/jsarafajr/Workspace/tmp/docker-microservices-test-master&#10;/Users/jsarafajr/Workspace/work/mercartto-project/mercartto.acm&#10;/Users/jsarafajr/Documents/Ladies Night 2.jar&#10;/home&#10;/Users/jsarafajr/Workspace/work/mercartto-project/mercartto.versionapirouter&#10;/Users/jsarafajr/Workspace/work/sfMessenger_bot/node_modules/.bin/babel-node&#10;/Users/jsarafajr/Workspace/work/sfMessenger_bot/src/index.js&#10;/Users/jsarafajr/Workspace/work/amoCRM_bot/test&#10;/Users/jsarafajr/Workspace/work/sfMessenger_bot&#10;/Users/jsarafajr/Workspace/work/SF_bot&#10;/Users/jsarafajr/Workspace/work/leo/mighty-minds&#10;/Users/jsarafajr/Workspace/work/leo/stock-ticker&#10;/Users/jsarafajr/Workspace/work/leo/mern-boilerplate/node_modules/.bin/babel-node&#10;/Users/jsarafajr/Workspace/work/leo/mern-boilerplate/index.js&#10;/usr/local/lib/node_modules/babel-cli/bin/babel-node.js&#10;/Users/jsarafajr/Workspace/work/leo/mern-boilerplate&#10;/Users/jsarafajr/Workspace/pet/mern-boilerplate&#10;/Users/jsarafajr/Workspace/work/amoCRM_bot/node_modules/babel-cli/bin/babel-node.js&#10;/Users/jsarafajr/Workspace/work/mercartto-project/mercartto.api&#10;/Users/jsarafajr/Workspace/pet/node-telegram-bot-api&#10;/Users/jsarafajr/Workspace/work/amoCRM_bot/index.js" />
+    <property name="file.gist.reindex.count" value="641675" />
+    <property name="fileTypeChangedCounter" value="55" />
+    <property name="idea.background.frame" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <property name="idea.background.frame.default" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <property name="idea.background.frame.mt" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="installation.uid" value="efe3bc90-61b6-4b3c-8b13-202b79ca3308" />
+    <property name="javascript.return.tag" value="return" />
+    <property name="js.rename.search.for.text.occurrences" value="true" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="org.rust.LAST_UPDATE" value="1547316917958" />
+    <property name="rerun.tests.notification.shown" value="true" />
+    <property name="selected.color.option.type" value="org.rust.KEYWORD" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.Rust" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.XML" value="Other" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+  </component>
+</application>

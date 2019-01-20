@@ -1,0 +1,46 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".sequelizerc" type="JavaScript" />
+      <mapping ext="gs" type="JavaScript" />
+      <mapping pattern="bloquoute" type="PLAIN_TEXT" />
+      <mapping pattern="ul" type="PLAIN_TEXT" />
+      <mapping pattern=".buildignore" type="PLAIN_TEXT" />
+      <mapping pattern="img" type="PLAIN_TEXT" />
+      <mapping pattern="bold" type="PLAIN_TEXT" />
+      <mapping pattern="heading" type="PLAIN_TEXT" />
+      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern=".claspignore" type="PLAIN_TEXT" />
+      <mapping pattern=".eslint" type="PLAIN_TEXT" />
+      <mapping pattern="code-inline" type="PLAIN_TEXT" />
+      <mapping pattern="italic+bold" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="plain-text" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="strike" type="PLAIN_TEXT" />
+      <mapping pattern="d" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern=".config.xml.swp" type="PLAIN_TEXT" />
+      <mapping pattern="code-block" type="PLAIN_TEXT" />
+      <mapping pattern="complex" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="emoji" type="PLAIN_TEXT" />
+      <mapping pattern="italic" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env_2" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping pattern="paragraph" type="PLAIN_TEXT" />
+      <mapping pattern="table" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern="ol" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="apxc" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
